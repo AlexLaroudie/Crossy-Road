@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8117627d13e6d4a9fc1751f1bc684f, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  terrain: {fileID: 3073239314581814350, guid: 38d6ef934efbac942a2adf694f30d5c7, type: 3}
+  maxInSuccession: 5
+  canSpawnTrees: 1
+  treePrefabs:
+  - {fileID: 1620129370920834, guid: e67ca55bb1a0074498c6f1769b012ca6, type: 3}
+  - {fileID: 1085241175354006, guid: 9191e921815f6c946a6ec587468d5343, type: 3}
+  maxTreesPerTile: 8

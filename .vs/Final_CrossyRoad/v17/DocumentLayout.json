@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\follow player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\vehicle spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehicle spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\terrain data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terrain data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|c:\\users\\asus\\onedrive - de vinci\\bureau\\cours\\s7\\game engine\\crossy road\\final_crossyroad\\assets\\scripts\\kill player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kill player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\voxelanimals\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\voxelanimals\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\terrain generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terrain generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\character selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\assets\\scripts\\audio manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1579A0-7EA4-D9E7-9394-32D3408AA9B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Audio Manager.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Audio Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio Manager.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Audio Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T23:37:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:18:54.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character selector.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Character selector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character selector.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Character selector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character selector.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:01:33.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:51:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Vehicle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vehicle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:06:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:04:38.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Terrain Generator.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Terrain Generator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Terrain Generator.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Terrain Generator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Terrain Generator.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:07:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\VoxelAnimals\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\VoxelAnimals\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\VoxelAnimals\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\VoxelAnimals\\Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:12:31.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kill Player.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Kill Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Kill Player.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Kill Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Kill Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:13:31.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terrain Data.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Terrain Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Terrain Data.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Terrain Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Terrain Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:55:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Vehicle Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vehicle Spawner.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Vehicle Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vehicle Spawner.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:10:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Follow Player.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Follow Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Follow Player.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive - De Vinci\\Bureau\\cours\\S7\\Game engine\\Crossy Road\\Final_CrossyRoad\\Assets\\Scripts\\Follow Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Follow Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:47:13.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
